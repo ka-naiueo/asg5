@@ -23,3 +23,7 @@
 [3] HTTPSとHTTPの違いについて  
 - 通信がSSL[^2]によって暗号化されているか否か。暗号化されていれば「HTTPS」、暗号化されていなければ「HTTP」。
 [^2]:SSL（Secure Sockets Layer）とは、Webサイトとそのサイトを閲覧しているユーザとのやり取り（通信）を暗号化するための仕組み。現在では、より安全なTLS（Transport Layer Security）という暗号化通信の規格が使われている。
+
+> 引用　https://www.profuture.co.jp/mk/column/53058
+
+## ◎クエリ文字列とは何か？
